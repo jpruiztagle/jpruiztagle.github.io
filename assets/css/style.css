@@ -1,0 +1,22 @@
+.banner{
+    height: 14em;
+    background-image: url(../img/banner_portafolio.png);
+    background-size: cover;
+    background-position: center;
+}
+
+i {
+    padding-right: 0.5rem;
+}
+
+.container{
+    margin-left: 3em;
+}
+
+p{
+    margin-left: 1.6em;
+    margin-right: 1.6em;
+}
+
+small_2{
+line-height: 4em;}
