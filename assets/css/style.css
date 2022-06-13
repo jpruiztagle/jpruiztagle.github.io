@@ -10,7 +10,7 @@ i {
 }
 
 .container{
-    margin-left: 3em;
+    width: fit-content;
 }
 
 p{
